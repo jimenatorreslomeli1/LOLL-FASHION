@@ -1,5 +1,5 @@
 html {
-  background-color: #FF00FF;
+  background-color: #FF69B4;
   font-family: "Open Sans", sans-sarif;
   margin: 0;
   padding:  0;
@@ -9,7 +9,7 @@ html {
 body {
   width: 70%;
   margin: 0 auto;
-  background-color: #00FFFF;
+  background-color: #FFA07A;
   padding: 0 15px 15px 15px;
   border: 5px solid black;
   }
@@ -18,7 +18,7 @@ h1 {
   text-align: center;
   margin: 0;
   padding: 10px 0;
-  color: #00FF00;
+  color: #FFCOCB;
 }
 
 P{
@@ -36,7 +36,7 @@ h1 {
   text-align: center;
   margin: 0;
   padding: 10px 0;
-  color: #800000;
+  color: #FFCOCB;
   text-shadow: 3px 3px 1px black;
 }
 
@@ -56,7 +56,7 @@ h1 {
    text-align: center;
    margin: 0;
    padding: 20px 0;
-   color: #FFFF00;
+   color: #FFA07A;
    text-shadow: 3px 3px 1px black;
 }
 
