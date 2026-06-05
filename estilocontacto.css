@@ -14,7 +14,7 @@ div#encabezado {
 
 div#columna_principal{
  float: left;
- background-color: #A927F5; 
+ background-color: #27C8f5; 
 }
 
 .navbar {
@@ -24,7 +24,7 @@ div#columna_principal{
         font-size: 18px;
         list-style-type:none;
         height: auto;
-        background-color: #27DAF5;
+        background-color: #F57D27;
         }
 ul {
   list-style-type: none;
@@ -47,7 +47,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #F52787;
+  background-color: #F527BB;
 }
 
 
