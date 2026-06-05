@@ -1,6 +1,6 @@
 html {
- margin: 0;
- padding: 0;
+ margin: 100;
+ padding: 100;
  box-sizing: border-box;
  }
 
@@ -18,8 +18,8 @@ div#columna_principal{
 }
 
 .navbar {
-        margin: 0 px;
-        padding: 0 px;
+        margin: 100 px;
+        padding: 100 px;
         text-align: left;
         font-size: 18px;
         list-style-type:none;
@@ -28,8 +28,8 @@ div#columna_principal{
         }
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 100;
+  padding: 100;
   overflow: hidden;
 
 }
